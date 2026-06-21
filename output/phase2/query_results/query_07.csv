@@ -1,0 +1,5 @@
+Partner,Dependents,customer_count,churned_count,churn_rate_pct
+No,No,3339,1150,34.44
+Yes,No,2077,613,29.51
+No,Yes,302,50,16.56
+Yes,Yes,1325,56,4.23

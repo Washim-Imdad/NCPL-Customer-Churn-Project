@@ -1,0 +1,11 @@
+Churn Reason,customer_count,avg_monthly_charge,avg_cltv
+Extra data charges,57,79.71,3852.28
+Long distance charges,44,78.36,4265.09
+Moved,53,77.94,3830.13
+Attitude of service provider,135,77.03,4223.23
+Competitor offered more data,162,76.25,4215.91
+Competitor made better offer,140,76.23,4204.21
+Service dissatisfaction,89,75.65,4206.91
+Price too high,98,75.5,4226.59
+Competitor offered higher download speeds,189,74.84,4164.74
+Product dissatisfaction,102,73.81,4208.71

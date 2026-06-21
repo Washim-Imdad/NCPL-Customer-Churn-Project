@@ -1,0 +1,3 @@
+rule_match,customer_count,churned_count,churn_rate_pct
+High Risk Rule Match,1397,806,57.7
+No Match,5646,1063,18.83

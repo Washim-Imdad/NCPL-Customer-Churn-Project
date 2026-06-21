@@ -1,0 +1,21 @@
+CustomerID,CLTV,Monthly Charges,Churn Reason,running_lost_cltv,cumulative_pct_of_loss
+1043-YCUTE,6484,25.15,Service dissatisfaction,6484,0.08
+1323-OOEPC,6481,98.4,Extra data charges,12965,0.17
+0112-QWPNC,6452,84.35,Competitor offered higher download speeds,19417,0.25
+5089-IFSDP,6424,109.45,Product dissatisfaction,25841,0.33
+0406-BPDVR,6405,101.5,Lack of affordable download/upload speed,32246,0.42
+4143-HHPMK,6402,85.35,Attitude of support person,38648,0.5
+1891-FZYSA,6363,89.95,Network reliability,45011,0.58
+8634-CILSZ,6350,104.7,Competitor offered higher download speeds,51361,0.66
+0617-AQNWT,6347,47.85,Competitor made better offer,57708,0.74
+3313-QKNKB,6304,85.55,Competitor offered more data,64012,0.83
+2533-QVMSK,6295,94.1,Competitor offered more data,70307,0.91
+4355-HBJHH,6289,79.7,Price too high,76596,0.99
+9090-SGQXL,6284,105.3,Competitor offered more data,82880,1.07
+6313-GIDIT,6280,54.45,Price too high,89160,1.15
+1725-IQNIY,6274,109.75,Competitor had better devices,95434,1.23
+4913-EHYUI,6268,104.55,Competitor offered higher download speeds,101702,1.31
+0607-DAAHE,6265,19.75,Long distance charges,107967,1.39
+3207-OYBWH,6259,95.25,Attitude of support person,114226,1.47
+8199-ZLLSA,6255,118.35,Competitor had better devices,120481,1.55
+8623-TMRBY,6245,84.2,Competitor offered more data,126726,1.63

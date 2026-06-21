@@ -1,0 +1,10 @@
+Internet Service,Contract,customer_count,churned_count,avg_monthly_charge,churn_rate_pct
+Fiber optic,Month-to-month,2128,1162,87.02,54.61
+DSL,Month-to-month,1223,394,50.22,32.22
+Fiber optic,One year,539,104,98.78,19.29
+No,Month-to-month,524,99,20.41,18.89
+DSL,One year,570,53,61.4,9.3
+Fiber optic,Two year,429,31,104.57,7.23
+No,One year,364,9,20.82,2.47
+DSL,Two year,628,12,70.46,1.91
+No,Two year,638,5,21.78,0.78

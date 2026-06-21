@@ -1,0 +1,11 @@
+Churn Reason,customer_count,pct_of_churned
+Attitude of support person,192,10.27
+Competitor offered higher download speeds,189,10.11
+Competitor offered more data,162,8.67
+Don't know,154,8.24
+Competitor made better offer,140,7.49
+Attitude of service provider,135,7.22
+Competitor had better devices,130,6.96
+Network reliability,103,5.51
+Product dissatisfaction,102,5.46
+Price too high,98,5.24

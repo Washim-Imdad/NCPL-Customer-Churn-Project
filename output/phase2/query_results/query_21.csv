@@ -1,0 +1,5 @@
+charge_quartile,customer_count,min_charge,max_charge,churned_count,churn_rate_pct
+1,1762,18.25,35.5,198,11.24
+2,1766,35.55,70.35,434,24.58
+3,1757,70.4,89.85,659,37.51
+4,1758,89.9,118.75,578,32.88

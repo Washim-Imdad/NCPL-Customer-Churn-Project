@@ -1,0 +1,4 @@
+Payment Risk,retained_customers,monthly_revenue_at_risk,avg_monthly_charge,avg_churn_score
+High,591,44485.1,75.27,50.27
+Low,2954,180538.7,61.12,50.08
+Medium,1629,91961.95,56.45,50.07

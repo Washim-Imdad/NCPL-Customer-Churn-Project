@@ -1,0 +1,3 @@
+customer_status,customer_count,total_revenue,avg_total_charges
+Retained,5174,13193697.4,2550.0
+Churned,1869,2862926.9,1531.8

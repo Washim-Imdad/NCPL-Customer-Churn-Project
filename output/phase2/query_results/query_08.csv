@@ -1,0 +1,11 @@
+City,State,customer_count,churned_count,churn_rate_pct
+San Diego,California,150,50,33.33
+Glendale,California,40,13,32.5
+Pasadena,California,30,9,30.0
+San Francisco,California,104,31,29.81
+Los Angeles,California,305,90,29.51
+Berkeley,California,32,9,28.12
+Stockton,California,44,12,27.27
+San Jose,California,112,29,25.89
+Oakland,California,52,13,25.0
+Fresno,California,64,16,25.0

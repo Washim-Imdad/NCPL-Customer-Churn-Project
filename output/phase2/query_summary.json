@@ -1,0 +1,198 @@
+[
+  {
+    "query_number": 1,
+    "title": "Overall Churn Rate & Customer Count",
+    "status": "ok (pandas fallback)",
+    "rows": 1,
+    "output_file": "query_01.csv"
+  },
+  {
+    "query_number": 2,
+    "title": "Total Revenue \u2014 Retained vs Churned",
+    "status": "ok (pandas fallback)",
+    "rows": 2,
+    "output_file": "query_02.csv"
+  },
+  {
+    "query_number": 3,
+    "title": "ARPU",
+    "status": "ok (pandas fallback)",
+    "rows": 1,
+    "output_file": "query_03.csv"
+  },
+  {
+    "query_number": 4,
+    "title": "Average CLTV by Churn Status",
+    "status": "ok (pandas fallback)",
+    "rows": 2,
+    "output_file": "query_04.csv"
+  },
+  {
+    "query_number": 5,
+    "title": "Churn Rate by Contract Type",
+    "status": "ok (pandas fallback)",
+    "rows": 3,
+    "output_file": "query_05.csv"
+  },
+  {
+    "query_number": 6,
+    "title": "Churn Rate by Internet Service",
+    "status": "ok (pandas fallback)",
+    "rows": 3,
+    "output_file": "query_06.csv"
+  },
+  {
+    "query_number": 7,
+    "title": "Churn Rate by Payment Method",
+    "status": "ok (pandas fallback)",
+    "rows": 4,
+    "output_file": "query_07.csv"
+  },
+  {
+    "query_number": 8,
+    "title": "Churn Rate by Payment Risk Tier",
+    "status": "ok (pandas fallback)",
+    "rows": 3,
+    "output_file": "query_08.csv"
+  },
+  {
+    "query_number": 9,
+    "title": "Churn Rate by Tenure Group",
+    "status": "ok (pandas fallback)",
+    "rows": 4,
+    "output_file": "query_09.csv"
+  },
+  {
+    "query_number": 10,
+    "title": "Churn Rate by Senior Citizen Status",
+    "status": "ok (pandas fallback)",
+    "rows": 2,
+    "output_file": "query_10.csv"
+  },
+  {
+    "query_number": 11,
+    "title": "Churn Rate by Partner and Dependents",
+    "status": "ok (pandas fallback)",
+    "rows": 4,
+    "output_file": "query_11.csv"
+  },
+  {
+    "query_number": 12,
+    "title": "Top 10 Cities by Churn Rate",
+    "status": "ok (pandas fallback)",
+    "rows": 10,
+    "output_file": "query_12.csv"
+  },
+  {
+    "query_number": 13,
+    "title": "ARPU by Contract Type",
+    "status": "ok (pandas fallback)",
+    "rows": 3,
+    "output_file": "query_13.csv"
+  },
+  {
+    "query_number": 14,
+    "title": "ARPU by Internet Service Tier",
+    "status": "ok (pandas fallback)",
+    "rows": 3,
+    "output_file": "query_14.csv"
+  },
+  {
+    "query_number": 15,
+    "title": "Revenue at Risk",
+    "status": "ok (pandas fallback)",
+    "rows": 3,
+    "output_file": "query_15.csv"
+  },
+  {
+    "query_number": 16,
+    "title": "High-Value Customer Churn Rate",
+    "status": "ok (pandas fallback)",
+    "rows": 2,
+    "output_file": "query_16.csv"
+  },
+  {
+    "query_number": 17,
+    "title": "Total Lost CLTV",
+    "status": "ok (pandas fallback)",
+    "rows": 1,
+    "output_file": "query_17.csv"
+  },
+  {
+    "query_number": 18,
+    "title": "Top 10 Churn Reasons",
+    "status": "ok (pandas fallback)",
+    "rows": 10,
+    "output_file": "query_18.csv"
+  },
+  {
+    "query_number": 19,
+    "title": "Churn Reasons by Avg Monthly Charges",
+    "status": "ok (pandas fallback)",
+    "rows": 10,
+    "output_file": "query_19.csv"
+  },
+  {
+    "query_number": 20,
+    "title": "Churn Rate by Service Count",
+    "status": "ok (pandas fallback)",
+    "rows": 7,
+    "output_file": "query_20.csv"
+  },
+  {
+    "query_number": 21,
+    "title": "Fiber Tech Support Impact",
+    "status": "ok (pandas fallback)",
+    "rows": 2,
+    "output_file": "query_21.csv"
+  },
+  {
+    "query_number": 22,
+    "title": "High-Risk Rule Validation",
+    "status": "ok (pandas fallback)",
+    "rows": 2,
+    "output_file": "query_22.csv"
+  },
+  {
+    "query_number": 23,
+    "title": "Churn Rate by Tenure Month",
+    "status": "ok (pandas fallback)",
+    "rows": 15,
+    "output_file": "query_23.csv"
+  },
+  {
+    "query_number": 24,
+    "title": "Top 20 At-Risk Active Customers",
+    "status": "ok (pandas fallback)",
+    "rows": 20,
+    "output_file": "query_24.csv"
+  },
+  {
+    "query_number": 25,
+    "title": "Churn Rate by Monthly Charge Quartile",
+    "status": "ok (pandas fallback)",
+    "rows": 4,
+    "output_file": "query_25.csv"
+  },
+  {
+    "query_number": 26,
+    "title": "Running Total of Lost CLTV",
+    "status": "ok (pandas fallback)",
+    "rows": 20,
+    "output_file": "query_26.csv"
+  },
+  {
+    "query_number": 27,
+    "title": "Extreme-Risk Active Customers",
+    "status": "ok (pandas fallback)",
+    "rows": 521,
+    "output_file": "query_27.csv"
+  },
+  {
+    "query_number": 28,
+    "title": "Cross-Segment Churn",
+    "status": "ok (pandas fallback)",
+    "rows": 9,
+    "output_file": "query_28.csv"
+  }
+]

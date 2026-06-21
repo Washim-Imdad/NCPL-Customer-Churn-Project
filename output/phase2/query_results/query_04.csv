@@ -1,0 +1,3 @@
+churn_status,customer_count,avg_cltv,min_cltv,max_cltv
+No,5174,4490.92,2003,6500
+Yes,1869,4149.41,2003,6484

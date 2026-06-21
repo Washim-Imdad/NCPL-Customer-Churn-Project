@@ -1,0 +1,3 @@
+value_segment,customer_count,churned_count,avg_cltv,churn_rate_pct
+Standard Value,5282,1504,3927.03,28.47
+High Value (Top 25%),1761,365,5819.81,20.73

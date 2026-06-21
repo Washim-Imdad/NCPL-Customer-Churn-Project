@@ -1,0 +1,21 @@
+CustomerID,Churn Score,Monthly Charges,CLTV,Contract,Internet Service,Payment Method,Tenure Months,Payment Risk,risk_rank
+2796-NNUFI,80,19.95,5480,Two year,No,Mailed check,46,Low,1
+5233-AOZUF,80,74.95,3483,Month-to-month,Fiber optic,Electronic check,29,High,2
+3935-TBRZZ,80,25.7,3037,One year,No,Mailed check,44,Low,3
+2866-IKBTM,80,19.55,3968,Month-to-month,No,Mailed check,1,Medium,4
+5150-LJNSR,80,98.05,4524,One year,Fiber optic,Bank transfer (automatic),31,Low,5
+0619-OLYUR,80,111.9,6437,Two year,Fiber optic,Credit card (automatic),72,Low,6
+0374-FIUCA,80,20.4,5368,Two year,No,Credit card (automatic),65,Low,7
+2499-AJYUA,80,110.8,5933,Two year,Fiber optic,Credit card (automatic),72,Low,8
+5125-CNDSP,80,40.6,6406,One year,DSL,Bank transfer (automatic),63,Low,9
+8942-DBMHZ,80,20.45,4883,Month-to-month,No,Mailed check,12,Medium,10
+0454-OKRCT,80,80.6,5542,Two year,Fiber optic,Bank transfer (automatic),33,Low,11
+0384-RVBPI,80,64.4,2120,Month-to-month,DSL,Credit card (automatic),20,Medium,12
+8714-CTZJW,80,82.85,3154,Month-to-month,Fiber optic,Credit card (automatic),4,Medium,13
+9314-IJWSQ,80,84.8,2452,Month-to-month,Fiber optic,Electronic check,14,High,14
+6968-GMKPR,80,81.55,5167,Month-to-month,Fiber optic,Electronic check,55,High,15
+3766-EJLFL,80,109.05,6391,Two year,Fiber optic,Bank transfer (automatic),68,Low,16
+1442-OKRJE,80,103.15,4663,One year,Fiber optic,Bank transfer (automatic),66,Low,17
+3506-OVLKD,80,26.2,4419,One year,No,Bank transfer (automatic),35,Low,18
+2039-JONDJ,80,55.45,3616,One year,DSL,Bank transfer (automatic),27,Low,19
+1964-SVLEA,80,19.7,2860,One year,No,Mailed check,20,Low,20
